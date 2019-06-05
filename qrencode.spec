@@ -4,7 +4,7 @@
 #
 Name     : qrencode
 Version  : 4.0.2
-Release  : 1
+Release  : 2
 URL      : https://fukuchi.org/works/qrencode/qrencode-4.0.2.tar.gz
 Source0  : https://fukuchi.org/works/qrencode/qrencode-4.0.2.tar.gz
 Summary  : A QR Code encoding library
