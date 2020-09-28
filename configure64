@@ -1,0 +1,4 @@
+--enable-shared
+--enable-static
+--with-tools
+--with-tests

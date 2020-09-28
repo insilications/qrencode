@@ -1,5 +1,6 @@
 PKG_NAME := qrencode
-URL = https://fukuchi.org/works/qrencode/qrencode-4.1.0.tar.gz
+URL = https://github.com/fukuchi/libqrencode.git
 ARCHIVES = 
+ARCHIVES_GIT = 
 
 include ../common/Makefile.common
